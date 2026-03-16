@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Habilidades
+- Programación (Python, Algoritmia)
+- Desarrollo web (HTML, CSS, Tailwind CSS)
+- Bases de datos (MySQL)
+- Control de versiones (Git)
+- Resolución de problemas y lógica de programación
+- Trabajo en equipo
+
+---
+
+## Herramientas y Tecnologías
+- Python
+- MySQL
+- Git
+- FastAPI
+- Tailwind CSS
+
+---
+
+
+## Objetivo Profesional
+Seguir aprendiendo y desarrollando proyectos de software que fortalezcan mis habilidades técnicas y experiencia práctica en desarrollo de aplicaciones.
+
+---
+
+## Disponibilidad
+Disponible para contribuir en proyectos de software y seguir desarrollando mis competencias técnicas.
+
+---
+
+## Enlace al perfil
