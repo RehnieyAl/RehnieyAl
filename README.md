@@ -43,5 +43,3 @@ Seguir aprendiendo y desarrollando proyectos de software que fortalezcan mis hab
 Disponible para contribuir en proyectos de software y seguir desarrollando mis competencias técnicas.
 
 ---
-
-## Enlace al perf
