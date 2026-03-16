@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **RehnieyAl/RehnieyAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,4 +44,4 @@ Disponible para contribuir en proyectos de software y seguir desarrollando mis c
 
 ---
 
-## Enlace al perfil
+## Enlace al perf
